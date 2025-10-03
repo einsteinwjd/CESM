@@ -169,6 +169,14 @@ Besides LAI, here are other commonly used land surface parameters:
 完整的气溶胶模块示例 (Complete Aerosol Module Example)
 ------------------------------------------------------
 
+完整的Fortran示例代码可以在 ``doc/examples/aero_model_lai_interface.F90`` 中找到。
+
+A complete Fortran example can be found in ``doc/examples/aero_model_lai_interface.F90``.
+
+以下是简化版本的示例：
+
+Here is a simplified example:
+
 .. code-block:: fortran
 
    module aero_model_lai
