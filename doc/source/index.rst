@@ -20,6 +20,7 @@ Table of contents
    downloading_cesm.rst
    cesm_configurations.rst
    quickstart.rst
+   accessing_land_parameters.rst
 
 
 
